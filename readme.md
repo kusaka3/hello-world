@@ -9,7 +9,7 @@ hello world!
 
 githubのお勉強
 
-## Licence
+## License
 
 MIT
 
