@@ -1,3 +1,18 @@
-# hello-world
+hello world
+====
 
-readme.
+Overview
+
+hello world!
+
+## Description
+
+githubのお勉強
+
+## Licence
+
+MIT
+
+## Author
+
+[kusaka](https://github.com/kusaka3/)
