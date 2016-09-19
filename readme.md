@@ -7,7 +7,7 @@ hello world!
 
 ## Description
 
-githubのお勉強
+githubのお勉強会
 
 ## License
 
