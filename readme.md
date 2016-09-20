@@ -9,6 +9,8 @@ hello world!!
 
 githubのお勉強会
 
+gitコマンドの使い方を学習します
+
 ## License
 
 MIT
